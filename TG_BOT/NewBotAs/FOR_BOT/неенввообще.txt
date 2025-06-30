@@ -1,0 +1,8 @@
+BOT_API = ''
+MAC=''
+NAME_BOT = 'Adam'
+YOUR_TG_ID = '79423475'
+STEAM = 'C:\\Program Files (x86)\\Steam\\Steam.exe'
+GAME_STEAM = '{"DOTA 2": "570", "Counter_Strike 2": "730"}'
+GAME_OTHER = '{"Fortnite": "D:---Epic Games---Fortnite---FortniteGame---Binaries---Win64---FortniteClient-Win64-Shipping_EAC_EOS.exe", "Genshin Impact": "C:---Program Files (x86)---Epic Games---Genshin Impact game---GenshinImpact.exe"}'
+MONITOR_SECOND = '1'
